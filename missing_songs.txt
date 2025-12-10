@@ -1,0 +1,613 @@
+Missing Songs Report
+=============================================================
+
+Spotify playlist: 595 tracks
+Tidal playlist: 568 tracks
+Missing: 151 tracks
+
+============================================================
+
+1. Hydrogen - M|O|O|N
+   Album: Moon - EP
+   Spotify Position: #1
+
+2. Shine On You Crazy Diamond - Live - Pink Floyd
+   Album: Pulse
+   Spotify Position: #2
+
+3. 1979 - The Smashing Pumpkins
+   Album: Mellon Collie And The Infinite Sadness
+   Spotify Position: #10
+
+4. Smooth Operator - Remastered - Sade
+   Album: The Ultimate Collection
+   Spotify Position: #18
+
+5. Recovery - Kn1ght
+   Album: Recovery
+   Spotify Position: #20
+
+6. Big Log - 2006 Remaster - Robert Plant
+   Album: The Principle of Moments
+   Spotify Position: #22
+
+7. Dazed and Confused - 1990 Remaster - Led Zeppelin
+   Album: Led Zeppelin
+   Spotify Position: #24
+
+8. Black Dog - 1990 Remaster - Led Zeppelin
+   Album: Led Zeppelin IV
+   Spotify Position: #27
+
+9. Suite Bergamasque L73: 3. Clair De Lune : Suite Bergamasque: 3. Clair De Lune - Claude Debussy
+   Album: Debussy - Classical Masterpieces
+   Spotify Position: #28
+
+10. The Devil Went Down to Georgia - The Charlie Daniels Band
+   Album: Million Mile Reflections
+   Spotify Position: #30
+
+11. Heaven and Hell - Black Sabbath
+   Album: Heaven & Hell (Deluxe Edition)
+   Spotify Position: #40
+
+12. Open Up - Remastered - Leftfield
+   Album: Leftism
+   Spotify Position: #42
+
+13. Opéra - Emmanuel Santarromana
+   Album: Métropolitain
+   Spotify Position: #43
+
+14. Just Dropped In (To See What Condition My Condition Is In) - Kenny Rogers & The First Edition
+   Album: The Big Lebowski (Original Motion Picture Soundtrack)
+   Spotify Position: #51
+
+15. The Fade Out Line - Phoebe Killdeer & The Short Straws
+   Album: Innerquake
+   Spotify Position: #61
+
+16. Crystalline - Omar Souleyman Version - Björk
+   Album: The Crystalline Series - Omar Souleyman EP
+   Spotify Position: #64
+
+17. S.o.s Rockn'roll - El Sotano Calling - Mike Barbwire & The Blue Ocean Orchestra
+   Album: S.o.s Rockn'roll (El Sotano Calling)
+   Spotify Position: #69
+
+18. Light My Fire - 1994 Remaster - Shirley Bassey
+   Album: Something
+   Spotify Position: #73
+
+19. Last Good Day Of The Year - CousteauX
+   Album: Cousteau
+   Spotify Position: #74
+
+20. Baby Did A Bad Bad Thing - Remastered - Chris Isaak
+   Album: Best Of Chris Isaak
+   Spotify Position: #81
+
+21. The Man Who Sold The World - 1999 Remastered Version - David Bowie
+   Album: The Man Who Sold The World
+   Spotify Position: #90
+
+22. Melting Pot - Booker T. & the M.G.'s
+   Album: Melting Pot
+   Spotify Position: #91
+
+23. Paris (Ooh La La) - Grace Potter & The Nocturnals
+   Album: Grace Potter & The Nocturnals
+   Spotify Position: #96
+
+24. The Lion The Beast The Beat - Grace Potter & The Nocturnals
+   Album: The Lion The Beast The Beat
+   Spotify Position: #97
+
+25. Medicine - Grace Potter & The Nocturnals
+   Album: Grace Potter & The Nocturnals
+   Spotify Position: #98
+
+26. Let's Dance - 1999 Remaster - David Bowie
+   Album: Let's Dance (1999 Remaster)
+   Spotify Position: #105
+
+27. Time to Dance - Extended Video Edit - The Shoes
+   Album: Time to Dance
+   Spotify Position: #109
+
+28. Flower duet from Lakme - Remasterisé en 1987 - Léo Delibes
+   Album: Classical Chillout
+   Spotify Position: #111
+
+29. Suicide Underground - Air
+   Album: The Virgin Suicides (Deluxe Version - 15th Anniversary)
+   Spotify Position: #118
+
+30. Ten Piedad De Mi: Mercy Mercy Me (The Ecology) - Marvin Gaye
+   Album: The Best Of Ottmar Liebert
+   Spotify Position: #123
+
+31. Lovesick - Lindstrøm & Christabelle
+   Album: Real Life Is No Cool
+   Spotify Position: #129
+
+32. Sing It Back - Boris Dlugosch Mix - Moloko
+   Album: Catalogue
+   Spotify Position: #131
+
+33. Retreat! - Sharon Jones & The Dap-Kings
+   Album: Give the People What They Want
+   Spotify Position: #132
+
+34. Two Brothers - Holy Ghost! Remix - Hanni El Khatib
+   Album: Work for Hire (Remixes)
+   Spotify Position: #137
+
+35. Gimme Shelter - Flora Martínez
+   Album: Flora
+   Spotify Position: #140
+
+36. Queer - Garbage
+   Album: Absolute Garbage (Special Edition)
+   Spotify Position: #141
+
+37. The Four Horsemen (Remastered) - Metallica
+   Album: Kill 'Em All (Remastered)
+   Spotify Position: #145
+
+38. Starman - 2012 Remaster - David Bowie
+   Album: The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)
+   Spotify Position: #147
+
+39. Heads Will Roll - A-Trak Remix - Yeah Yeah Yeahs
+   Album: Heads Will Roll (A-Trak Remix)
+   Spotify Position: #149
+
+40. The Logical Song - Remastered 2010 - Supertramp
+   Album: Breakfast In America (Deluxe Edition)
+   Spotify Position: #154
+
+41. Seven Nation Army - Alice Russell
+   Album: Under The Munka Moon Selection
+   Spotify Position: #156
+
+42. Sweet Thing - 2007 Remastered Version - Mick Jagger
+   Album: The Very Best of Mick Jagger
+   Spotify Position: #157
+
+43. California Dreamin' - José Feliciano
+   Album: The Definite Best
+   Spotify Position: #159
+
+44. Hotel California - Spanish Mix - Gipsy Kings
+   Album: The Best Of
+   Spotify Position: #160
+
+45. Toccata & Fugue in D Minor, BWV 565 - Johann Sebastian Bach
+   Album: Toccata and Fugue - Bach: Famous Organ Works
+   Spotify Position: #164
+
+46. Papa Was A Rolling Stone - The Temptations
+   Album: Live As It Gets
+   Spotify Position: #165
+
+47. The Taste of Blood - Jozef Van Wissem
+   Album: Only Lovers Left Alive (Original Motion Picture Soundtrack)
+   Spotify Position: #166
+
+48. Haro no Umi (for Violin and Harp) - Michio Miyagi
+   Album: Insomnia
+   Spotify Position: #170
+
+49. You Know My Name - From "Casino Royale" Soundtrack - Chris Cornell
+   Album: Carry On (International Version)
+   Spotify Position: #181
+
+50. Shine On You Crazy Diamond - A New Music Experience
+   Album: Pink Floyd Redux
+   Spotify Position: #188
+
+51. Shine on You Crazy Diamond - Live in Gdańsk - David Gilmour
+   Album: Live in Gdansk
+   Spotify Position: #189
+
+52. Across The Universe - Remix - Rufus Wainwright
+   Album: Vibrate: The Best Of (Deluxe Edition)
+   Spotify Position: #191
+
+53. Lemon Tree - Album Edit - Fools Garden
+   Album: Dish Of The Day
+   Spotify Position: #193
+
+54. Mad World - Gary Jules
+   Album: Trading Snakeoil for Wolftickets
+   Spotify Position: #196
+
+55. Run to the Hills - 1998 Remastered Version - Iron Maiden
+   Album: The Number Of The Beast (1998 Remastered Edition)
+   Spotify Position: #205
+
+56. Tinker Tailor Soldier Spy - From "Tinker Tailor Soldier Spy" - Alberto Iglesias
+   Album: Archipiélago: A Film Music Retrospective
+   Spotify Position: #210
+
+57. Todo sobre mi madre - From "Todo sobre mi madre" - Alberto Iglesias
+   Album: Archipiélago: A Film Music Retrospective
+   Spotify Position: #211
+
+58. Ain't No Rest For The Wicked - Original Version - Cage The Elephant
+   Album: Cage The Elephant
+   Spotify Position: #230
+
+59. Faith - Remastered - George Michael
+   Album: Faith
+   Spotify Position: #232
+
+60. I’m A Man (Radio edit) - Black Strobe
+   Album: I’m A Man
+   Spotify Position: #236
+
+61. No Quarter - Remaster - Led Zeppelin
+   Album: Mothership (Remastered)
+   Spotify Position: #243
+
+62. No Quarter - Live: O2 Arena, London - December 10, 2007 - Led Zeppelin
+   Album: Celebration Day
+   Spotify Position: #244
+
+63. Careful with That Axe, Eugene - Live - Pink Floyd
+   Album: Ummagumma
+   Spotify Position: #246
+
+64. Rich Woman - Dorothy La Bostrie
+   Album: Raising Sand
+   Spotify Position: #249
+
+65. La Llorona - Flora Martínez
+   Album: Flores para Frida
+   Spotify Position: #252
+
+66. I Shot The Sheriff - Full Length Version - Eric Clapton
+   Album: I Shot The Sheriff (Full Length Version)
+   Spotify Position: #253
+
+67. In the Light - 1990 Remaster - Led Zeppelin
+   Album: Physical Graffiti (1994 Remaster)
+   Spotify Position: #257
+
+68. Live With Me - Remastered 2006 - Massive Attack
+   Album: Collected
+   Spotify Position: #267
+
+69. Partita for 8 Voices: No. 3, Courante - Caroline Shaw
+   Album: Roomful of Teeth
+   Spotify Position: #274
+
+70. Wishing Well (feat. Lucy Tops) - Stomper
+   Album: Wishing Well (feat. Lucy Tops)
+   Spotify Position: #275
+
+71. Symphony No. 3: Passacaglia - Allegro moderato - Krzysztof Penderecki
+   Album: Penderecki: Symphony No. 3 / Threnody
+   Spotify Position: #277
+
+72. Luna - En Vivo - Zoé
+   Album: MTV Unplugged Música De Fondo (Reissue/Live)
+   Spotify Position: #281
+
+73. Labios Rotos - En Vivo Desde México / 2010 - Zoé
+   Album: MTV Unplugged Música De Fondo (Reissue/Live)
+   Spotify Position: #282
+
+74. La Mer - Live - Julio Iglesias
+   Album: En El Olympia
+   Spotify Position: #283
+
+75. Touch Me I'm Going To Scream - Pt. 2 - My Morning Jacket
+   Album: Evil Urges
+   Spotify Position: #285
+
+76. Granada: Granada - Agustín Lara
+   Album: Carreras Domingo Pavarotti in Concert
+   Spotify Position: #286
+
+77. Nothing Compares 2 U - Live At SiriusXM/2015 - Chris Cornell
+   Album: Nothing Compares 2 U / When Bad Does Good
+   Spotify Position: #287
+
+78. Amor Por Ti - Mimi MauraAmparanoia
+   Album: Mirando Caer La Lluvia
+   Spotify Position: #289
+
+79. Somebody To Love - Remastered 2011 - Queen
+   Album: A Day At The Races (Deluxe Edition 2011 Remaster)
+   Spotify Position: #290
+
+80. Violin Concerto No. 1 in G Minor, Op. 26: II. Adagio - Max Bruch
+   Album: Bruch: Violin Concerto No. 1 - Stenhammar: Violin Sonata
+   Spotify Position: #298
+
+81. Jazz Suite No. 2: VI. Waltz II - Dmitri Shostakovich
+   Album: Shostakovich: The Jazz Album
+   Spotify Position: #300
+
+82. Hungry Like the Wolf - Recorded Live at AIR Studios, London - Muse
+   Album: Spotify Singles
+   Spotify Position: #306
+
+83. It Serve You Right To Suffer - The Avener Rework - John Lee Hooker
+   Album: The Wanderings Of The Avener
+   Spotify Position: #319
+
+84. Un Mundo Raro (feat. Diego El Cigala) - Lila Downs
+   Album: Salón Lágrimas y Deseo
+   Spotify Position: #321
+
+85. Idon'twannago - Original - Catt
+   Album: Idon'twannago (Original)
+   Spotify Position: #328
+
+86. Picking Words - Stella
+   Album: Σtella
+   Spotify Position: #332
+
+87. Knee Deepen - Salt City Orchestra Mix - Moloko
+   Album: All Back to the Mine: Volume I - A Collection of Remixes
+   Spotify Position: #335
+
+88. The Beginning Is The End Is The Beginning - Batman & Robin Soundtrack Version - The Smashing Pumpkins
+   Album: Adore (Super Deluxe)
+   Spotify Position: #336
+
+89. Love Theme - Jackie Presti
+   Album: METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK
+   Spotify Position: #339
+
+90. Here's To You - Lisbeth Scott
+   Album: METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK
+   Spotify Position: #340
+
+91. Since I've Been Loving You - Remaster - Led Zeppelin
+   Album: Led Zeppelin III (Remaster)
+   Spotify Position: #343
+
+92. Book of the Month - Nathaniel Merriweather
+   Album: Nathaniel Merriweather Presents...Lovage: Music to Make Love to Your Old Lady By
+   Spotify Position: #345
+
+93. Symphony No. 7 in A Major, Op. 92: II. Allegretto - Ludwig van Beethoven
+   Album: Beethoven: Symphony No.7 / 3 Overtures
+   Spotify Position: #350
+
+94. La petite fille de la mer - Remastered - Vangelis
+   Album: L'apocalypse des animaux (Remastered)
+   Spotify Position: #355
+
+95. Roundabout - 2003 Remaster - Yes
+   Album: Fragile (Deluxe Edition)
+   Spotify Position: #359
+
+96. Lonely Is The Night - Remastered 2010 - Billy Squier
+   Album: Don't Say No (Remastered 2010)
+   Spotify Position: #360
+
+97. Thinking of You - Danny Trexin Remix - Simply Red
+   Album: Thinking of You (Danny Trexin Remix)
+   Spotify Position: #366
+
+98. Release Me - Shades Of Green Dark Matter Radio Edit - Hooverphonic
+   Album: Release Me (Shades Of Green Remixes)
+   Spotify Position: #369
+
+99. Que te pedí - Mimi Maura
+   Album: Raices de Pasión
+   Spotify Position: #372
+
+100. Where You Are - Venus Hum
+   Album: Where You Are
+   Spotify Position: #374
+
+101. Room Of Angel - Akira Yamaoka
+   Album: SILENT HILL4 -THE ROOM- (Original Soundtrack)
+   Spotify Position: #378
+
+102. Liquid Lady - Hope Sandoval & The Warm Inventions
+   Album: Until the Hunter
+   Spotify Position: #381
+
+103. Red Right Hand - 2011 Remastered Version - Nick Cave & The Bad Seeds
+   Album: Let Love In (2011 Remastered Version)
+   Spotify Position: #393
+
+104. Bridged By A Lightwave - Tommy Trash Extended Remix - deadmau5
+   Album: Bridged By A Lightwave (Tommy Trash Remix)
+   Spotify Position: #394
+
+105. This Big Hush - From "Manhunter" Soundtrack - Shriekback
+   Album: Oil & Gold
+   Spotify Position: #396
+
+106. Bridged By A Lightwave - Acoustic - deadmau5
+   Album: Bridged By A Lightwave (Acoustic)
+   Spotify Position: #397
+
+107. Half Full Glass Of Wine - Live - Tame Impala
+   Album: Live Versions
+   Spotify Position: #407
+
+108. FLY ME TO THE MOON - 2020 Version - 高橋　洋子
+   Album: Evangelion Finally
+   Spotify Position: #414
+
+109. A Crown in My Hand - Venus Hum
+   Album: Kindness Rages On
+   Spotify Position: #415
+
+110. Choke - Original - Hybrid
+   Album: I Choose Noise
+   Spotify Position: #416
+
+111. Cat People (feat. Marilyn Manson) - Shooter Jennings
+   Album: Countach (For Giorgio)
+   Spotify Position: #421
+
+112. Pay Your Way In Pain - IDLES Remix - St. Vincent
+   Album: Pay Your Way In Pain (IDLES Remix)
+   Spotify Position: #427
+
+113. Dacoit Duel - A.R. Rahman
+   Album: Between Heaven and Earth
+   Spotify Position: #428
+
+114. Lucia di lammermoor - Éric Serra
+   Album: Le cinquième élément (Original Motion Picture Soundtrack)
+   Spotify Position: #430
+
+115. Masked Ball - 1999 Extended Mix - Jocelyn Pook
+   Album: Flood
+   Spotify Position: #434
+
+116. Shigeru Umebayashi : Yumeji's Theme - Shigeru Umebayashi
+   Album: Tears of beauty
+   Spotify Position: #438
+
+117. Directions - TORN Remix / Radio Edit - Ane Brun
+   Album: Directions (TORN Remix)
+   Spotify Position: #441
+
+118. Sensation - Long Version - Ron Hardy
+   Album: Sensation
+   Spotify Position: #449
+
+119. Asturias - John C. Williams
+   Album: Spanish Guitar Music
+   Spotify Position: #451
+
+120. Halcyon & On - Logic1000 Mix - Orbital
+   Album: Halcyon (30 Something) [Remixes]
+   Spotify Position: #453
+
+121. Beast - Extended Version - Nico Vega
+   Album: Beast (Extended Version)
+   Spotify Position: #454
+
+122. House of the Rising Sun - Heavy Young Heathens
+   Album: House of the Rising Sun
+   Spotify Position: #455
+
+123. Dogs - 2018 Remix - Pink Floyd
+   Album: Dogs (2018 Remix)
+   Spotify Position: #458
+
+124. Surgery in the Sky - Venus Hum
+   Album: The Colors In The Wheel
+   Spotify Position: #468
+
+125. Feeling Good - Live - George Michael
+   Album: Symphonica (Deluxe Version)
+   Spotify Position: #470
+
+126. Rain Fall Down - Remastered 2009 - The Rolling Stones
+   Album: A Bigger Bang (2009 Re-Mastered)
+   Spotify Position: #472
+
+127. Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 5, 1980 - Al Di Meola
+   Album: Friday Night in San Francisco
+   Spotify Position: #474
+
+128. Feel It - Edit - Röyksopp
+   Album: Feel It
+   Spotify Position: #475
+
+129. The Night Begins To Shine - CeeLo Green
+   Album: Teen Titans Go! (Songs From The Night Begins To Shine Special)
+   Spotify Position: #487
+
+130. I Don't Want to Set the World on Fire - From "A Small Light: Episode 3" - Sharon Van Etten
+   Album: A Small Light: Episodes 3 & 4 (Songs from the Limited Series)
+   Spotify Position: #498
+
+131. Doors and Distance - Antonio Sánchez
+   Album: Birdman (Original Motion Picture Soundtrack)
+   Spotify Position: #499
+
+132. Control - Massano Remix - Röyksopp
+   Album: Control (Massano Remix)
+   Spotify Position: #501
+
+133. Blues For Mama - Live - Nina Simone
+   Album: Blues For Mama (Live)
+   Spotify Position: #502
+
+134. Dance The Night - From Barbie The Album - Dua Lipa
+   Album: Dance The Night (From Barbie The Album)
+   Spotify Position: #505
+
+135. One Kiss (with Dua Lipa) - Calvin Harris
+   Album: One Kiss (with Dua Lipa)
+   Spotify Position: #506
+
+136. Pumpkin - Reincarnated - Tricky
+   Album: Maxinquaye (Reincarnated)
+   Spotify Position: #517
+
+137. Black Horse And The Cherry Tree - Radio Version - KT Tunstall
+   Album: Eye To The Telescope
+   Spotify Position: #519
+
+138. Cold Heart - PNAU Remix - Elton John
+   Album: The Lockdown Sessions
+   Spotify Position: #524
+
+139. Where the Wild Roses Grow - 2011 Remaster - Nick Cave & The Bad Seeds
+   Album: Murder Ballads (2011 Remaster)
+   Spotify Position: #525
+
+140. Cherry Lips (Go Baby Go!) - Remastered 2021 - Garbage
+   Album: beautiful garbage (20th Anniversary / Deluxe)
+   Spotify Position: #526
+
+141. The Best Is Yet To Come - Aoife Ni Fhearraigh
+   Album: METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+   Spotify Position: #530
+
+142. Can You Feel the Love Tonight - End Title - Elton John
+   Album: The Lion King: Special Edition Original Soundtrack (Swedish Version)
+   Spotify Position: #532
+
+143. If Love Is A Red Dress (Hang Me In Rags) - Acoustic Demo Version - Maria McKee
+   Album: I'm Gonna Soothe You
+   Spotify Position: #546
+
+144. Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards) - Chris Stapleton
+   Album: Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)
+   Spotify Position: #556
+
+145. New York - Non-Electric - The Kills
+   Album: Happier Girls Sessions
+   Spotify Position: #568
+
+146. Bad Blood - From The Walking Dead - Alison Mosshart
+   Album: Bad Blood (From The Walking Dead)
+   Spotify Position: #569
+
+147. He's A Dream (FLASHDANCE) (SINGLE) - Shandi
+   Album: He's A Dream (FLASHDANCE Single) (featured On the Flashdance Soundtrack)
+   Spotify Position: #570
+
+148. This Is Who I Am - From “The Day of the Jackal” - Celeste
+   Album: This Is Who I Am (From “The Day of the Jackal”)
+   Spotify Position: #575
+
+149. Moaner - Underworld
+   Album: Batman & Robin (Music From And Inspired By The Motion Picture)
+   Spotify Position: #583
+
+150. Grand Central - K-Pax (Original Motion Picture Soundtrack) - Edward Shearmur
+   Album: K-Pax
+   Spotify Position: #588
+
+151. Unbroken - SIERRA VEINS
+   Album: Gone
+   Spotify Position: #594
+
